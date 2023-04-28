@@ -59,6 +59,5 @@ If you have a test case that you think would be a good addition to this reposito
 ## License 
 This repository is licensed under the MIT license. Feel free to use the code in this repository however you like.
 
-<br:
 ##### For the Java version of this repository please go to: <br>
 https://github.com/AndreiBanu1/SeleniumJava
