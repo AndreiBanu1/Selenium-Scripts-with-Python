@@ -9,26 +9,26 @@ A web browser (Chrome, Firefox, or Edge) and the corresponding WebDriver executa
 
 ## Test Cases 
 The test cases in this repository cover the following scenarios:<br>
-1. GoogleSearchCountResults - full test case implemented <br>
-2. GoogleSearchWithReport - google search with a generated reporting file <br>
+1. Google Search Count Results - full test case implemented <br>
+2. Google Search With Report - google search with a generated reporting file <br>
 3. Assertions <br>
-4. ManageAuthWindow <br>
-5. PrintAllClassesName <br>
-6. WorkWithExcel <br>
+4. Manage Auth Window <br>
+5. Print All Classes Name <br>
+6. Work With Excel <br>
 7. SelectByIndex <br>
 8. SelectByValue <br>
 9. AlertsAPI <br>
-10. WorkingWithFrames <br>
+10. Working With Frames <br>
 11. SelectByVisibleText <br>
 12. Testing Dropdowns <br>
 13. Checkboxes <br>
 14. Confirmation Box <br>
-15. PromptPopUp <br>
-16. MultipleAdsWindows <br>
-17. AuthWindowFirefox <br>
-18. AutolTScript <br>
+15. Prompt PopUps <br>
+16. Multiple Ads Windows <br>
+17. Auth Window Firefox <br>
+18. AutolT Script <br>
 19. New Windows Tests <br>
-20. SwitchingWindows <br>
+20. Switching Windows <br>
 21. Autocomplete Textbox <br>
 22. UploadFiles With Sendkeys <br>
 23. Resize Windows <br>
@@ -37,12 +37,22 @@ The test cases in this repository cover the following scenarios:<br>
 26. Download Files<br>
 27. Handle SSL Certs <br>
 28. Parallel Test<br>
-29. Stale ElementException<br>
+29. Stale Element Exception<br>
 30. Manage Cookies<br>
 31. Call And Parse Cookies <br>
-32. ReadDataFromFile <br>
-33. TakeScreenshot <br>
-34. DragAndDrop<br>
+32. Read Data From File <br>
+33. Take Screenshot <br>
+34. Drag And Drop<br>
+35. Testing Context menu <br>
+36. Implicit Wait and Fluent Wait <br>
+37. Two Factor Auth <br>
+38. Calendar Date Picker <br>
+39. KendoUI Date Picker <br>
+40. Element Not Clickable at the moment <br>
+41. Extract Text from PDF <br>
+42. Find Broken or Invalid Images <br>
+43. Find Broken Link <br>
+
 <br>
 Each test case is implemented in a separate Python file and is fully commented to explain what the code is doing.
 
