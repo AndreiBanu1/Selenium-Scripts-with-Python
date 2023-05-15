@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
-import time
 
 driver_path = '/Users/banuandreicristian/Documents/WebDrivers/geckodriver/geckodriver'
 url = 'http://localhost:5000/resize'
