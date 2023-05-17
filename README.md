@@ -52,6 +52,15 @@ The test cases in this repository cover the following scenarios:<br>
 41. Extract Text from PDF <br>
 42. Find Broken or Invalid Images <br>
 43. Find Broken Link <br>
+44. Using RC Server <br>
+45. Extract Emails With RegEX <br>
+46. Extract Numbers with RegEX <br>
+47. Find all Href elements <br>
+48. Getting Text attributes from Images <br>
+49. Verify JavaScript Execution <br>
+50. Logging Module <br>
+51. Conditional Testing <br>
+52. Print all classes on a webpage <br>
 
 <br>
 Each test case is implemented in a separate Python file and is fully commented to explain what the code is doing.
