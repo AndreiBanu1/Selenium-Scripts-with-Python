@@ -61,6 +61,14 @@ The test cases in this repository cover the following scenarios:<br>
 50. Logging Module <br>
 51. Conditional Testing <br>
 52. Print all classes on a webpage <br>
+53. Multiple Test Cases using TestNG <br>
+54. Generate XML Reports <br>
+55. Create Dependency Between tests <br>
+56. Listeners <br>
+57. Assertions using TestNG <br>
+58. BDD with Behave <br>
+59. Page Object Planning using Behave <br>
+60. Singleton Pattern <br>
 
 <br>
 Each test case is implemented in a separate Python file and is fully commented to explain what the code is doing.
