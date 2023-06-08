@@ -69,7 +69,10 @@ The test cases in this repository cover the following scenarios:<br>
 58. BDD with Behave <br>
 59. Page Object Planning using Behave <br>
 60. Singleton Pattern <br>
-
+61. Test driven development (TDD) <br>
+62. Cucumber implementation with Selenium <br>
+63. Data Driven testing <br>
+64. Functional testing in automation <br>
 <br>
 Each test case is implemented in a separate Python file and is fully commented to explain what the code is doing.
 
