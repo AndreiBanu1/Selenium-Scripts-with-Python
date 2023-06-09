@@ -73,6 +73,11 @@ The test cases in this repository cover the following scenarios:<br>
 62. Cucumber implementation with Selenium <br>
 63. Data Driven testing <br>
 64. Functional testing in automation <br>
+65. BrowserStack default test <br>
+66. BrowserStack parallel testing <br>
+67. BrowserStack desktop test <br>
+68. BrowserStack mobile test <br>
+69. BrowserStack handle SSL certificate <br>
 <br>
 Each test case is implemented in a separate Python file and is fully commented to explain what the code is doing.
 
