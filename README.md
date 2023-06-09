@@ -78,6 +78,11 @@ The test cases in this repository cover the following scenarios:<br>
 67. BrowserStack desktop test <br>
 68. BrowserStack mobile test <br>
 69. BrowserStack handle SSL certificate <br>
+70. Database connection (MySQL) <br>
+71. Manage cookies <br>
+72. Image cropping <br>
+73. Testing frames <br>
+74. Managing Logs <br>
 <br>
 Each test case is implemented in a separate Python file and is fully commented to explain what the code is doing.
 
